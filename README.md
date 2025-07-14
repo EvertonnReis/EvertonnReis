@@ -9,11 +9,13 @@
 ---
 
 <p align="center">
-  Desenvolvedor Full Stack com foco em soluções sob medida para negócios.<br>
-  Atuo com <strong>PHP (Phalcon, Laravel, Zend)</strong>, <strong>JavaScript</strong> e <strong>React Native (Expo)</strong>, além de conhecimentos sólidos em <strong>SQL</strong>, <strong>Python</strong>, e <strong>C#</strong>.<br>
-  Tenho um perfil analítico e participo desde a concepção da ideia até a entrega final. Sou apaixonado por performance, organização de código e boas práticas de desenvolvimento.<br>
-  Atualmente me dedico a criar aplicações que resolvem problemas reais com eficiência e clareza.
+  Desenvolvedor Full Stack com experiência sólida em diversas tecnologias e linguagens.<br>
+  Atuo com <strong>PHP</strong>, <strong>C#</strong>, <strong>Python</strong>, <strong>Node.js</strong> no backend, e com <strong>React</strong>, <strong>React Native</strong> e <strong>Vue.js</strong> no frontend.<br>
+  Tenho experiência em bancos de dados como <strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>Oracle</strong> e <strong>SQL Server</strong>.<br>
+  Trabalho com integração de APIs REST e GraphQL, sempre buscando performance, organização e entrega de valor real.<br>
+  Sou apaixonado por aprender novas tecnologias e criar soluções robustas e eficientes.
 </p>
+
 
 ---
 
