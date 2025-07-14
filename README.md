@@ -10,11 +10,13 @@
 
 <p align="center">
   Desenvolvedor Full Stack com experiência sólida em diversas tecnologias e linguagens.<br>
+  Graduado em <strong>Análise e Desenvolvimento de Sistemas pela UNIMAR</strong> e atualmente cursando <strong>Pós-graduação em Desenvolvimento Full Stack</strong> também na UNIMAR.<br>
   Atuo com <strong>PHP</strong>, <strong>C#</strong>, <strong>Python</strong>, <strong>Node.js</strong> no backend, e com <strong>React</strong>, <strong>React Native</strong> e <strong>Vue.js</strong> no frontend.<br>
-  Tenho experiência em bancos de dados como <strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>Oracle</strong> e <strong>SQL Server</strong>.<br>
+  Tenho experiência com bancos de dados como <strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>Oracle</strong> e <strong>SQL Server</strong>.<br>
   Trabalho com integração de APIs REST e GraphQL, sempre buscando performance, organização e entrega de valor real.<br>
   Sou apaixonado por aprender novas tecnologias e criar soluções robustas e eficientes.
 </p>
+
 
 
 ---
