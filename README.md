@@ -21,9 +21,9 @@
 
 ### 🚀 Conecte-se comigo
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:seuemail@exemplo.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/seuperfil/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/seuuser/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:evertonreisnascimento3@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/everton-reis-nascimento/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/everton___reis)
 
 ---
 
