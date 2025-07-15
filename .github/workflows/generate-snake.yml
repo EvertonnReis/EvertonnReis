@@ -30,5 +30,4 @@ jobs:
           author_email: EvertonnReis@users.noreply.github.com
           message: "generate contribution snake"
           add: "output/*.svg"
-        env:
           token: ${{ secrets.GH_TOKEN }}
