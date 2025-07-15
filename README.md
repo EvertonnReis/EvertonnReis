@@ -29,7 +29,7 @@
 
 ---
 
-### 🧰 Minhas Tecnologias
+### 🧰 Minha Stack
 
 <div align="left">
   <!-- Backend -->
