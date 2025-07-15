@@ -8,6 +8,13 @@
 
 ---
 
+## 🌐 Idiomas | Languages  
+[🇧🇷 Versão em Português](#-versão-em-português) | [🇺🇸 English Version](#-english-version)
+
+---
+
+## 🇧🇷 Versão em Português
+
 <p align="center">
   Desenvolvedor Full Stack com experiência sólida em diversas tecnologias e linguagens.<br>
   Graduado em <strong>Análise e Desenvolvimento de Sistemas pela UNIMAR</strong> e atualmente cursando <strong>Pós-graduação em Desenvolvimento Full Stack</strong> também na UNIMAR.<br>
@@ -32,46 +39,60 @@
 ### 🧰 Minha Stack
 
 <div align="left">
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs" />
 
-  <br><br>
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs" />
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3" />
+<br><br>
 
-  <br><br>
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3" />
 
-  <!-- Bancos de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="sql server" />
+<br><br>
 
-  <br><br>
+<!-- Bancos de Dados -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="sql server" />
 
-  <!-- APIs -->
-  <img src="https://img.shields.io/badge/REST-%2300ADD8.svg?style=flat&logo=protocols.io&logoColor=white" height="25" alt="REST" />
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="25" alt="graphql" />
+<br><br>
+
+<!-- APIs -->
+<img src="https://img.shields.io/badge/REST-%2300ADD8.svg?style=flat&logo=protocols.io&logoColor=white" height="25" alt="REST" />
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="25" alt="graphql" />
 </div>
+
+---
+
+## 🇺🇸 English Version
+
+<p align="center">
+  Full Stack Developer with solid experience in various technologies and languages.<br>
+  Graduated in <strong>Systems Analysis and Development at UNIMAR</strong> and currently studying <strong>Full Stack Development Postgraduate</strong> at the same university.<br>
+  I work with <strong>PHP</strong>, <strong>C#</strong>, <strong>Python</strong>, <strong>Node.js</strong> on the backend, and <strong>React</strong>, <strong>React Native</strong>, <strong>Vue.js</strong> on the frontend.<br>
+  I have experience with databases like <strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>Oracle</strong>, and <strong>SQL Server</strong>.<br>
+  I work with REST and GraphQL APIs, always focusing on performance, clean code and real value delivery.<br>
+  I'm passionate about learning new technologies and building robust and efficient solutions.
+</p>
 
 ---
 
