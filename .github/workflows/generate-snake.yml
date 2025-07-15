@@ -31,4 +31,4 @@ jobs:
           message: "generate contribution snake"
           add: "output/*.svg"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
