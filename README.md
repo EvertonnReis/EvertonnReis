@@ -81,11 +81,3 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonnReis&layout=compact&langs_count=8&theme=jolly&bg_color=000&title_color=00BFFF&text_color=FFF&border_color=1e90ff" alt="Top Languages"/>
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvertonnReis/EvertonnReis/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvertonnReis/EvertonnReis/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/EvertonnReis/EvertonnReis/output/github-contribution-grid-snake.svg" />
-</picture>
