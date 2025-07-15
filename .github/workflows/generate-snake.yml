@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todo dia à meia-noite
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -30,4 +30,5 @@ jobs:
           author_email: EvertonnReis@users.noreply.github.com
           message: "generate contribution snake"
           add: "output/*.svg"
-          token: ${{ secrets.GH_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
